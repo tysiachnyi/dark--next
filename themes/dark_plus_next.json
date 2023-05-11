@@ -1,0 +1,13 @@
+{
+  "name": "Dark+ Next",
+  "include": "./dark_plus.json",
+  "colors": {
+    "statusBar.background": "#3c3c3c",
+    "activityBar.foreground": "#ffffff",
+    "statusBar.noFolderBackground": "#3c3c3c",
+    "statusBar.debuggingBackground": "#3c3c3c",
+    "statusBar.border": "#3c3c3c",
+    "statusBar.foreground": "#ffffff86",
+    "statusBarItem.remoteBackground": "#0078d4"
+  }
+}
