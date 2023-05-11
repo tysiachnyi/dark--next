@@ -10,7 +10,7 @@
     "url": "https://github.com/tysiachnyi/dark--next"
   },
   "description": "Next iteration of the default Dark+ theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.78.0"
   },
