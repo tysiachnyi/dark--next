@@ -12,13 +12,17 @@
     "type": "git",
     "url": "https://github.com/tysiachnyi/dark--next"
   },
-  "description": "Fresh look for the default Dark+ && Dark Modrern themes.",
+  "description": "Fresh look for the default Dark+ & Dark Modern themes.",
   "version": "1.3.3",
   "engines": {
     "vscode": "^1.78.0"
   },
   "keywords": [
     "theme",
+    "dark",
+    "dark+",
+    "dark plus",
+    "dark plus next",
     "Dark Theme",
     "Dark+",
     "Dark Modern",
