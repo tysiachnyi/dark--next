@@ -13,7 +13,7 @@
     "url": "https://github.com/tysiachnyi/dark--next"
   },
   "description": "Fresh look for the default Dark+ & Dark Modern themes.",
-  "version": "1.3.3",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -38,6 +38,11 @@
         "label": "Dark+ Next",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_plus_next.json"
+      },
+      {
+        "label": "Dark+ Next Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_plus_next_flat.json"
       }
     ]
   }
