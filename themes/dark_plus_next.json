@@ -43,7 +43,9 @@
     "input.border": "#ffffff1f",
     "input.foreground": "#cccccc",
     "input.placeholderForeground": "#ffffff79",
-    "titleBar.inactiveBackground": "#3c3c3c",
+    "titleBar.inactiveBackground": "#242424",
+    "titleBar.inactiveForeground": "#ffffff86",
+    "titleBar.activeBackground": "#242424",
     "commandCenter.background": "#3c3c3c"
   }
 }
