@@ -10,4 +10,5 @@ Created to be more flat and minimalistic and help u focus on your code
 
 ![VSCode with new Dark Next Flat theme](images/screen2.png)
 
-**Enjoy!**
+-
+- **Enjoy!**
